@@ -4,6 +4,8 @@
 3. Create new branch
 4. Stage the changes
 5. Commit the changes
+6. Push to remote
+
 
 
 ## Updates by Bhuvana
