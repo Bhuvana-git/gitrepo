@@ -7,9 +7,9 @@
 6. Push to remote
 
 
-
 ## Updates by Bhuvana
 1. New repository created - gitrepo
 2. New branch created - branch_B
 3. Changes staged
 4. Changes Commited
+5. Changes pushed to remote (github)
